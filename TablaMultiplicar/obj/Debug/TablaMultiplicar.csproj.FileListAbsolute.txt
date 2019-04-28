@@ -1,0 +1,6 @@
+c:\users\alex_\source\repos\MayorMenor\TablaMultiplicar\bin\Debug\TablaMultiplicar.exe.config
+c:\users\alex_\source\repos\MayorMenor\TablaMultiplicar\bin\Debug\TablaMultiplicar.exe
+c:\users\alex_\source\repos\MayorMenor\TablaMultiplicar\bin\Debug\TablaMultiplicar.pdb
+c:\users\alex_\source\repos\MayorMenor\TablaMultiplicar\obj\Debug\TablaMultiplicar.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\TablaMultiplicar\obj\Debug\TablaMultiplicar.exe
+c:\users\alex_\source\repos\MayorMenor\TablaMultiplicar\obj\Debug\TablaMultiplicar.pdb

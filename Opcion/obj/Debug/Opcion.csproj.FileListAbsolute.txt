@@ -1,0 +1,7 @@
+c:\users\alex_\source\repos\MayorMenor\Opcion\bin\Debug\Opcion.exe.config
+c:\users\alex_\source\repos\MayorMenor\Opcion\bin\Debug\Opcion.exe
+c:\users\alex_\source\repos\MayorMenor\Opcion\bin\Debug\Opcion.pdb
+c:\users\alex_\source\repos\MayorMenor\Opcion\obj\Debug\Opcion.csprojAssemblyReference.cache
+c:\users\alex_\source\repos\MayorMenor\Opcion\obj\Debug\Opcion.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\Opcion\obj\Debug\Opcion.exe
+c:\users\alex_\source\repos\MayorMenor\Opcion\obj\Debug\Opcion.pdb

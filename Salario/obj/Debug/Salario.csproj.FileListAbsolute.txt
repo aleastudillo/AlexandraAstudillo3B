@@ -1,0 +1,6 @@
+c:\users\alex_\source\repos\MayorMenor\Salario\bin\Debug\Salario.exe.config
+c:\users\alex_\source\repos\MayorMenor\Salario\bin\Debug\Salario.exe
+c:\users\alex_\source\repos\MayorMenor\Salario\bin\Debug\Salario.pdb
+c:\users\alex_\source\repos\MayorMenor\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\Salario\obj\Debug\Salario.exe
+c:\users\alex_\source\repos\MayorMenor\Salario\obj\Debug\Salario.pdb

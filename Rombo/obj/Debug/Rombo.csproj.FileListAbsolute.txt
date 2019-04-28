@@ -1,0 +1,7 @@
+c:\users\alex_\source\repos\MayorMenor\Rombo\bin\Debug\Rombo.exe.config
+c:\users\alex_\source\repos\MayorMenor\Rombo\bin\Debug\Rombo.exe
+c:\users\alex_\source\repos\MayorMenor\Rombo\bin\Debug\Rombo.pdb
+c:\users\alex_\source\repos\MayorMenor\Rombo\obj\Debug\Rombo.csprojAssemblyReference.cache
+c:\users\alex_\source\repos\MayorMenor\Rombo\obj\Debug\Rombo.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\Rombo\obj\Debug\Rombo.exe
+c:\users\alex_\source\repos\MayorMenor\Rombo\obj\Debug\Rombo.pdb

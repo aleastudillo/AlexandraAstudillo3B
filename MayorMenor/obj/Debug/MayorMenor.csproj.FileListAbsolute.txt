@@ -1,0 +1,7 @@
+c:\users\alex_\source\repos\MayorMenor\MayorMenor\bin\Debug\MayorMenor.exe.config
+c:\users\alex_\source\repos\MayorMenor\MayorMenor\bin\Debug\MayorMenor.exe
+c:\users\alex_\source\repos\MayorMenor\MayorMenor\bin\Debug\MayorMenor.pdb
+c:\users\alex_\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.csprojAssemblyReference.cache
+c:\users\alex_\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.exe
+c:\users\alex_\source\repos\MayorMenor\MayorMenor\obj\Debug\MayorMenor.pdb

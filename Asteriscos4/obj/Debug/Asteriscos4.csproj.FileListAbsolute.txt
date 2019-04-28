@@ -1,0 +1,7 @@
+c:\users\alex_\source\repos\MayorMenor\Asteriscos4\bin\Debug\Asteriscos4.exe.config
+c:\users\alex_\source\repos\MayorMenor\Asteriscos4\bin\Debug\Asteriscos4.exe
+c:\users\alex_\source\repos\MayorMenor\Asteriscos4\bin\Debug\Asteriscos4.pdb
+c:\users\alex_\source\repos\MayorMenor\Asteriscos4\obj\Debug\Asteriscos4.csprojAssemblyReference.cache
+c:\users\alex_\source\repos\MayorMenor\Asteriscos4\obj\Debug\Asteriscos4.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\Asteriscos4\obj\Debug\Asteriscos4.exe
+c:\users\alex_\source\repos\MayorMenor\Asteriscos4\obj\Debug\Asteriscos4.pdb

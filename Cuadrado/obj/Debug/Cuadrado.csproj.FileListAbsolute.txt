@@ -1,0 +1,7 @@
+c:\users\alex_\source\repos\MayorMenor\Cuadrado\bin\Debug\Cuadrado.exe.config
+c:\users\alex_\source\repos\MayorMenor\Cuadrado\bin\Debug\Cuadrado.exe
+c:\users\alex_\source\repos\MayorMenor\Cuadrado\bin\Debug\Cuadrado.pdb
+c:\users\alex_\source\repos\MayorMenor\Cuadrado\obj\Debug\Cuadrado.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\Cuadrado\obj\Debug\Cuadrado.exe
+c:\users\alex_\source\repos\MayorMenor\Cuadrado\obj\Debug\Cuadrado.pdb
+c:\users\alex_\source\repos\MayorMenor\Cuadrado\obj\Debug\Cuadrado.csprojAssemblyReference.cache

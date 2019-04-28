@@ -1,0 +1,7 @@
+c:\users\alex_\source\repos\MayorMenor\DosColumnas\bin\Debug\DosColumnas.exe.config
+c:\users\alex_\source\repos\MayorMenor\DosColumnas\bin\Debug\DosColumnas.exe
+c:\users\alex_\source\repos\MayorMenor\DosColumnas\bin\Debug\DosColumnas.pdb
+c:\users\alex_\source\repos\MayorMenor\DosColumnas\obj\Debug\DosColumnas.csprojAssemblyReference.cache
+c:\users\alex_\source\repos\MayorMenor\DosColumnas\obj\Debug\DosColumnas.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\DosColumnas\obj\Debug\DosColumnas.exe
+c:\users\alex_\source\repos\MayorMenor\DosColumnas\obj\Debug\DosColumnas.pdb
