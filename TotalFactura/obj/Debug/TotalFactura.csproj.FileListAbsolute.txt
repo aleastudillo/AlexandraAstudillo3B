@@ -1,0 +1,6 @@
+c:\users\alex_\source\repos\MayorMenor\TotalFactura\bin\Debug\TotalFactura.exe.config
+c:\users\alex_\source\repos\MayorMenor\TotalFactura\bin\Debug\TotalFactura.exe
+c:\users\alex_\source\repos\MayorMenor\TotalFactura\bin\Debug\TotalFactura.pdb
+c:\users\alex_\source\repos\MayorMenor\TotalFactura\obj\Debug\TotalFactura.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\TotalFactura\obj\Debug\TotalFactura.exe
+c:\users\alex_\source\repos\MayorMenor\TotalFactura\obj\Debug\TotalFactura.pdb

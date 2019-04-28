@@ -1,0 +1,7 @@
+c:\users\alex_\source\repos\MayorMenor\UnoDosTres\bin\Debug\UnoDosTres.exe.config
+c:\users\alex_\source\repos\MayorMenor\UnoDosTres\bin\Debug\UnoDosTres.exe
+c:\users\alex_\source\repos\MayorMenor\UnoDosTres\bin\Debug\UnoDosTres.pdb
+c:\users\alex_\source\repos\MayorMenor\UnoDosTres\obj\Debug\UnoDosTres.csproj.CoreCompileInputs.cache
+c:\users\alex_\source\repos\MayorMenor\UnoDosTres\obj\Debug\UnoDosTres.exe
+c:\users\alex_\source\repos\MayorMenor\UnoDosTres\obj\Debug\UnoDosTres.pdb
+c:\users\alex_\source\repos\MayorMenor\UnoDosTres\obj\Debug\UnoDosTres.csprojAssemblyReference.cache
